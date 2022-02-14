@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/supercll/node-learn/issues"
   },
-  "homepage": "https://github.com/supercll/node-learn#readme"
+  "homepage": "https://github.com/supercll/node-learn#readme",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
 }
